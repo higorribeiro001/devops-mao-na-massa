@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/Higor/Documents/devops-mao-na-massa/lab-k3s","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
